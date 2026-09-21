@@ -1,5 +1,7 @@
 # Importar la libreri pip install nicegui
 from nicegui import ui
+import pandas as pd
+
 
 # Link de referencia https://docs.python.org/es/3/tutorial/datastructures.html#
 
